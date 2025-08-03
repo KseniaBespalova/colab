@@ -1,2 +1,3 @@
 # Colaboration
-My team
+My team!
+Git is awesome!
